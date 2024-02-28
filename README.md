@@ -37,7 +37,7 @@ This is a simple bank management system implemented in Python with MySQL databas
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.I would like to thank Madhur Verma for his contribution to the code.
 
 ## License
 
